@@ -1,0 +1,27 @@
+sandeep_dbt:
+    target: dev
+    outputs:
+        dev:
+            catalog: dbt_project
+            host: dbc-e0498360-e79d.cloud.databricks.com
+            http_path: /sql/1.0/warehouses/a47fd3173ea7acce
+            schema: default
+            threads: 1
+            token: dapi85710bc64e063922c4b7d9ba4f5a5828
+            type: databricks
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
