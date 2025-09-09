@@ -17,7 +17,6 @@ sandeep_dbt:
             threads: 1
             token: dapi85710bc64e063922c4b7d9ba4f5a5828
             type: databricks
-    
 
 
 

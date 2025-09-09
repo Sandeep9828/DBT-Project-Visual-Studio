@@ -1,1 +1,1 @@
-select {{multiple(10,20) }} as test_result
+select {{multiply(10,20)}} as test_result
